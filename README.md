@@ -3,6 +3,7 @@ python code implementation of c4.5
 
 Prerequisite packages
 -------------------
+python 3.6.x
 sklearn
 numpy
 matplotlib
