@@ -3,8 +3,8 @@ python code implementation of c4.5
 
 Prerequisite packages
 -------------------
-python 3.6.x
-sklearn
+python 3.6.x\n
+sklearn\n
 numpy
 matplotlib
 itertools
